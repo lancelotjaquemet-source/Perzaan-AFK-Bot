@@ -8,7 +8,7 @@
   "server": {
     "ip": "serveur-v3WJ.aternos.me",
     "port": 48454,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
